@@ -1,0 +1,62 @@
+[
+    {
+        "key": "unit_name_1001",
+        "kor": "크로즈",
+        "eng": "Kroze",
+        "jp": "クローズ"
+    },
+    {
+        "key": "unit_name_1002",
+        "kor": "드라크",
+        "eng": "Drack",
+        "jp": "ドラック"
+    },
+    {
+        "key": "unit_name_1003",
+        "kor": "윙크스",
+        "eng": "Winks",
+        "jp": "ウィンクス"
+    },
+    {
+        "key": "unit_name_1004",
+        "kor": "울티오",
+        "eng": "Ultio",
+        "jp": "ウルティオ"
+    },
+    {
+        "key": "unit_name_1005",
+        "kor": "그롬스",
+        "eng": "Groms",
+        "jp": "グロムス"
+    },
+    {
+        "key": "unit_name_1006",
+        "kor": "스카즈",
+        "eng": "Skaz",
+        "jp": "スカズ"
+    },
+    {
+        "key": "unit_name_1007",
+        "kor": "브로크",
+        "eng": "Brok",
+        "jp": "ブロク"
+    },
+    {
+        "key": "unit_name_1008",
+        "kor": "넥터",
+        "eng": "Nektor",
+        "jp": "ネクター"
+    },
+    {
+        "key": "unit_name_1009",
+        "kor": "볼텍",
+        "eng": "Voltek",
+        "jp": "ボルテク"
+    },
+    {
+        "key": "unit_name_1010",
+        "kor": "하르크",
+        "eng": "Hark",
+        "jp": "ハーク"
+    }
+]
