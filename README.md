@@ -219,3 +219,6 @@ public class SampleCode : MonoBehaviour
     }
 }
 ```
+
+### 실행 결과 화면
+![Image](https://github.com/user-attachments/assets/d6f18b7f-7527-4495-b79c-66da8bf4595e)
